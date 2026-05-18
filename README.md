@@ -20,7 +20,7 @@
 ### 步骤 2：安装本脚本
 点击下方链接，Tampermonkey 会自动弹出安装提示：
 👉 **[点击这里安装 WorldCat eBooks Assistant](https://greasyfork.org/zh-CN/scripts/578724-worldcat-ebooks-assistant-api-v2-1)**
-> *注意：请在发布后将上述链接替换为您仓库的真实 Raw 链接。*
+
 
 ## 🛠️ 技术原理
 本脚本在页面加载完毕后：
